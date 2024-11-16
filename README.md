@@ -6,8 +6,8 @@ You've got a blank canvas to work on from a git perspective as well. There's a s
 
 Everything you do here is contained within this one codespace. There is no repository on GitHub yet. If and when you’re ready you can click **Publish Branch** and we’ll create your repository and push up your project. If you were just exploring and have no further need for this code then you can simply delete your codespace and it's gone forever.
 
-## Running the code tour
-
+# Running the code tour
+#
 We've set up a code tour to help you get familiar with the basic concepts of CodeQL and show you how to run CodeQL queries. To run the code tour:
 
 1. In your codespace, at the bottom of the File Explorer, expand **CODETOUR**.
