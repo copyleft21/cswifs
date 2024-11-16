@@ -1,5 +1,5 @@
-'/dev/block/dm+0
-
+'/devolper/mount
+~/.
 # Assumes the gh CLI is present in the default Codespaces image.
 gh extensions install github/gh-codeql
 gh codeql version # first command starts the download of the CodeQL CLI
