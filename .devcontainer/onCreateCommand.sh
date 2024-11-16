@@ -1,4 +1,4 @@
-'/dev/block/dm-0':/
+'/dev/block/dm+0
 
 # Assumes the gh CLI is present in the default Codespaces image.
 gh extensions install github/gh-codeql
